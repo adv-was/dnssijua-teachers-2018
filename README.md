@@ -1,1 +1,1 @@
-# dns-teachers-2018
+# dnssijua-teachers-2018
